@@ -1,4 +1,4 @@
-https://www.canva.com/design/DAGdfhkvXGc/dLUCK_ai-wR8bheUaaF0GQ/edit?utm_content=DAGdfhkvXGc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAGdfhkvXGc/Sz-5MrNI6AVNPPcVTVV3cg/view
 ### Hi there 👋, 
 My name is Ayon
 # I am Web Developer
