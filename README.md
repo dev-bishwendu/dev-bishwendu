@@ -6,12 +6,15 @@ I live coding & I'm passionate about it. I love to learn more things to keep me 
 <br>
 Skills: JS / HTML / CSS/WordPress/Bootstrap5/Php
 <br>
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on New creative work 
-- 🤔 I’m looking for help with new job  
-- 💬 Ask me about my works 
-- 📫 How to reach me: WhatsApp & Emails 
+<Br>
+<ul>
+  <li>🔭 I’m currently working on this page.</li>
+  <li>🌱 I’m currently learning JavaScript.</li>
+  <li>👯 I’m looking to collaborate on New creative work.</li>
+  <li>🤔 I’m always ready for new challenge.</li>
+  <li>💬 Ask me about my works & share your project ideas with me.</li>
+  <li>📫 How to reach me: WhatsApp & Emails(all are included here).</li>
+</ul> 
 <br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dev-bishwendu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayon-dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ayon.sarker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/+8801304919269)  
