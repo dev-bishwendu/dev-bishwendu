@@ -2,7 +2,8 @@
 Hi there 👋, <br>My name is Ayon
 <br>I am frontend Web Developer(currently working in WordPress)
 I live coding & I'm passionate about it. I love to learn more things to keep me update with new working scenario. I make my creative projects with great enthusiasm & sincerity.  
-
+<br>
+<br>
 Skills: JS / HTML / CSS/WordPress/Bootstrap5/Php
 
 - 🔭 I’m currently working on this page. 
@@ -11,7 +12,8 @@ Skills: JS / HTML / CSS/WordPress/Bootstrap5/Php
 - 🤔 I’m looking for help with new job  
 - 💬 Ask me about my works 
 - 📫 How to reach me: WhatsApp & Emails 
-
+<br>
+<br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dev-bishwendu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayon-dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ayon.sarker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/+8801304919269)  
 
