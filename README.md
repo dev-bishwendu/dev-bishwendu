@@ -4,7 +4,7 @@ Hi there 👋, <br>My name is Ayon
 I live coding & I'm passionate about it. I love to learn more things to keep me update with new working scenario. I make my creative projects with great enthusiasm & sincerity.  
 <br>
 <br>
-Skills: JS / HTML / CSS/WordPress/Bootstrap5/Php
+Skills: JavaScript/ Php / HTML / CSS/ WordPress/ Bootstrap5/ Tailwind CSS.
 <br>
 <Br>
 <ul>
