@@ -1,4 +1,4 @@
-![I am frontend Web Developer(currently working in WordPress)](https://media.licdn.com/dms/image/v2/D4E16AQF3IJDRNYGSfQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738156340709?e=1743638400&v=beta&t=blP_yDABBp5FxnYcqX8Kpqavhp6jvYGq5ia35NOoSNg)
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQHrFQFw_PN-eQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739020651740?e=1744848000&v=beta&t=FAEL-19ycZXuvRYM_LOxpxf-ZMKs0XOP1xhqPhTcJkE">
 ### Hi there 👋, <br>My name is Ayon
 #### I am frontend Web Developer(currently working in WordPress)
 I live coding & I'm passionate about it. I love to learn more things to keep me update with new working scenario. I make my creative projects with great enthusiasm & sincerity.  
